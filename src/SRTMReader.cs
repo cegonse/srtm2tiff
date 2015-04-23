@@ -41,7 +41,7 @@ namespace srtm2tiff
         {
             if (reader == null)
             {
-                throw new NullReferenceException("El BinaryReader no debe ser null.");
+                throw new NullReferenceException("BinaryReader can't be NULL.");
             }
 
             _binaryReader = reader;
@@ -57,7 +57,7 @@ namespace srtm2tiff
             }
             else if (_format == SRTMFormat.Unknown)
             {
-                throw new FormatException("No se ha podido reconocer el formato del archivo HGT.");
+                throw new FormatException("Unkown HGT file format.");
             }
 
             _heightData = new Int16[_tileSize, _tileSize];
