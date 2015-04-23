@@ -30,6 +30,10 @@ Unless specified, srtm2tiff will not produce any console output. To generate a v
 
 The application was developed and built using Microsoft Visual Studio Express 2013. It should build under Mono or under other versions of Visual Studio, albeit it is untested.
 
+The application uses the LibTIFF .NET binding from BitMiracle. You can obtain the source needed to build it here:
+
+https://github.com/BitMiracle/libtiff.net
+
 ## Contributing ##
 
 The application is licensed under the Lesser GNU public license version 3. Feel free to use any part of the application in your projects as long as you quote the original project somewhere. Feel also free to make a pull request or comment about any bug or doubt.
