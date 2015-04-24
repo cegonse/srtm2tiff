@@ -1,6 +1,6 @@
 # srtm2tiff
 
-srtm2tiff is an open-source command line tool to convert NASA HGT elevation files from the SRTM Hubble mission to TIFF raster files.
+srtm2tiff is an open-source command line tool to convert NASA HGT elevation files from the SRTM Shuttle radar mission to TIFF raster files.
 
 SRTM format has two variants:
 - SRTM1 files are sampled with a 1 arc-second distance between samples, having 3601 square samples per file.
@@ -36,6 +36,6 @@ https://github.com/BitMiracle/libtiff.net
 
 ## Contributing ##
 
-The application is licensed under the Lesser GNU public license version 3. Feel free to use any part of the application in your projects as long as you quote the original project somewhere. Feel also free to make a pull request or comment about any bug or doubt.
+The application is licensed under the Lesser GNU public license, version 3. Feel free to use any part of the application in your projects as long as you quote the original project somewhere. Feel also free to make a pull request or comment about any bug or doubt.
 
 
