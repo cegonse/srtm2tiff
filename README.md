@@ -34,8 +34,16 @@ The application uses the LibTIFF .NET binding from BitMiracle. You can obtain th
 
 https://github.com/BitMiracle/libtiff.net
 
+## Binaries ##
+
+If you want to download a compiled version of the tool, you can do so at:
+
+> http://cesar.jumbledevs.net/bin/srtm2tiff.zip
+
+The binary was compiled with Visual Studio 2013 and is untested on any other platform but Windows 8.1 64-bit.
+
 ## Contributing ##
 
-The application is licensed under the Lesser GNU public license, version 3. Feel free to use any part of the application in your projects as long as you quote the original project somewhere. Feel also free to make a pull request or comment about any bug or doubt.
+The application is licensed under the Lesser GNU public license. Feel free to use any part of the application in your projects as long as you quote the original project somewhere. Feel also free to make a pull request or comment about any bug or doubt.
 
 
