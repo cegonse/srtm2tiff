@@ -34,6 +34,8 @@ The application uses the LibTIFF .NET binding from BitMiracle. You can obtain th
 
 https://github.com/BitMiracle/libtiff.net
 
+The srtm2tiff_vs15 directory includes a Visual Studio 2015 solution ready to build the project.
+
 ## Binaries ##
 
 If you want to download a compiled version of the tool, you can do so at:
